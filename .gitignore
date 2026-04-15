@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+__pycache__/
+.pytest_cache/
+个人背景资料/
