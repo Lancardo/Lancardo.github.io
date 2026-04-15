@@ -5,8 +5,9 @@ This repository contains a privacy-conscious academic homepage for Ruibo Lan. It
 ## Included content
 
 - Public research profile and selected background
+- Dedicated `CV` and `Publications` pages
 - Representative publications with DOI links
-- A public profile photo from GitHub
+- A web-optimized version of the local profile photo
 - GitHub Pages workflow for automated deployment
 
 ## Privacy choices
